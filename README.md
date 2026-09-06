@@ -1,4 +1,4 @@
-# Java Core Exercises & OOP Solutions
+# java Core Exercises & OOP: Assignment prompts and solutions
 A collection of introductory Java assignments focusing on algorithm implementation, static vs. instance methods, numeric edge cases, and class design.
 # Exercises Breakdown
 ----------------------------------------------------------------
