@@ -1,4 +1,4 @@
-# java Core Exercises & OOP: Assignment prompts and solutions
+# Java Core Exercises & OOP: Assignment prompts and solutions
 A collection of introductory Java assignments focusing on algorithm implementation, static vs. instance methods, numeric edge cases, and class design.
 # Exercises Breakdown
 ----------------------------------------------------------------
@@ -16,3 +16,10 @@ Command-line application verifying whether an integer belongs to the Fibonacci s
 Object-oriented model of a bank account featuring private attributes, constructor initialization, deposits, withdrawals, interest application, and formatted toString() output.
 # Exercise 7: Interactive Bank Account CLI Application (App7.java)
 A console menu interface allowing users to create an Account instance and perform interactive banking operations.
+
+---
+
+# 👤 Author
+## Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
+
+---
