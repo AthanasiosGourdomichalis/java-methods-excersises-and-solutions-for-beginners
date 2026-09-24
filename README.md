@@ -1,4 +1,4 @@
-# Java Core Exercises & OOP: Assignment prompts and solutions `[part 1]`
+# Java Core Exercises & OOP: Assignment prompts and solutions `[Computer Programming with Java Assignment]` `[part 1]`
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Level: Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen)
 > A collection of **introductory `Java assignments`** focusing on algorithm implementation, **static vs. instance methods**, **numeric edge cases**, and **class design**.
